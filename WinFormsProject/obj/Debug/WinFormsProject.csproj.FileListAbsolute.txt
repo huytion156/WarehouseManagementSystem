@@ -1,0 +1,103 @@
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\final_project\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\phong\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+C:\Users\PC\Desktop\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\huy\WinFormsProject (2)\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.exe
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.pdb
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.exe
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\bin\Debug\WinFormsProject.pdb
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+C:\Users\Hoang Hieu\Desktop\WinFormsProject\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.Form2.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.2\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Form2.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.pdb
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.exe
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.pdb
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.exe
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\bin\Debug\WinFormsProject.pdb
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Form2.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+C:\Users\TP\Desktop\Project_Final\WinFormsProject_v2.3\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\bin\Debug\WinFormsProject.exe.config
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\bin\Debug\WinFormsProject.exe
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\bin\Debug\WinFormsProject.pdb
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.csprojResolveAssemblyReference.cache
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.Form1.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.Form2.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.FormNewPack.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.Properties.Resources.resources
+D:\HoangTrungHieu\HOCTAP\CTDL+GT\final_project\WinFormsProject_v2.4\WinFormsProject\obj\Debug\WinFormsProject.csproj.GenerateResource.Cache
